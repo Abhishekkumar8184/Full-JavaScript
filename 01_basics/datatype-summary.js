@@ -58,7 +58,7 @@ anotherYoutubechanel =" chanel2"
 
  let userOne ={
     email:"user@gmail.com"
-    pui:"user@ybl"
+    Upi: "user@ybl"
  }
 
  let userTwo =userOne
