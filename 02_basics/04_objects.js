@@ -68,6 +68,6 @@ const course = {
 }
 
 //  course.coursebuy
- const {courseBuy : buy} = course
- console.log(b20y);
+ const {courseBuy : buy} = course     //  deconstracto
+ console.log(buy);
  
