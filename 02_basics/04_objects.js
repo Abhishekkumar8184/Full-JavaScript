@@ -61,5 +61,13 @@ console.log(tinderUser);
 
 //  console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
+const course = {
+    coursename: "js",
+    price: "999" ,
+    courseBuy:"Abhishek",
+}
 
-
+//  course.coursebuy
+ const {courseBuy : buy} = course
+ console.log(b20y);
+ 
